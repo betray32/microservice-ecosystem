@@ -1,5 +1,5 @@
-# microservice-ecosistem
-Sistema integrado de microservicio, en donde se tiene todo lo necesario para levantar el ecosistema correctamente.
+# Ecosistema de Microservicios
+Repositorio el cual tiene todos los componentes necesarios para levantar un ecosistema de microservicio, endpoint centralizado, descubridor de nuevos servicios, enrutador. etc.
 
 - Gateway
 - Discover Service
